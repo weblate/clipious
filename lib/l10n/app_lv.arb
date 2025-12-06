@@ -1,1 +1,74 @@
-{}
+{
+    "subscriptions": "Abonementi",
+    "@subscriptions": {
+        "description": "User subscriptions"
+    },
+    "playlists": "Atskaņošanas saraksti",
+    "@playlists": {
+        "description": "User playlists"
+    },
+    "popular": "Populāri",
+    "@popular": {
+        "description": "Popular videos title"
+    },
+    "trending": "Kļūst populāri",
+    "@trending": {
+        "description": "Trending videos title"
+    },
+    "playlistVisibility": "Redzamība",
+    "@playlistVisibility": {
+        "description": "Dropdown label for playlist visibility"
+    },
+    "publicPlaylist": "Publisks",
+    "@publicPlaylist": {
+        "description": "Public playlist"
+    },
+    "privatePlaylist": "Privāts",
+    "@privatePlaylist": {
+        "description": "Private playlist"
+    },
+    "cancel": "Atcelt",
+    "@cancel": {
+        "description": "Cancel button label"
+    },
+    "add": "Pievienot",
+    "@add": {
+        "description": "Add button abel"
+    },
+    "info": "Informācija",
+    "@info": {
+        "description": "Info label"
+    },
+    "videos": "Video",
+    "@videos": {
+        "description": "Videos label"
+    },
+    "subscribed": "Abonēts",
+    "@subscribed": {
+        "description": "When the user is subscribed to a channel"
+    },
+    "subscribe": "Abonēt",
+    "@subscribe": {
+        "description": "Label for user to subscribe to a channel"
+    },
+    "share": "Dalīties",
+    "@share": {
+        "description": "asking user if to share"
+    },
+    "ok": "Labi",
+    "@ok": {
+        "description": "Ok"
+    },
+    "channels": "Kanāli",
+    "@channels": {
+        "description": "Channels label"
+    },
+    "comments": "Komentāri",
+    "@comments": {
+        "description": "Comments label"
+    },
+    "recommended": "Iesaka",
+    "@recommended": {
+        "description": "Recommended label"
+    }
+}
